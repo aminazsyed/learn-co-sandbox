@@ -1,0 +1,10 @@
+def num_1
+  5 > 4
+end
+
+puts num_1
+
+
+def num_2
+If 5 > 4
+  puts "

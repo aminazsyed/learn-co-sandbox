@@ -1,0 +1,8 @@
+def num_3
+  if "sam" == "cat"
+   puts "sam equals cat"
+ elsif "matt" == "matt"
+   puts "matt equals matt"
+ else 
+   puts "whatever"
+end
